@@ -3,4 +3,5 @@
     <string name="login"><a href="#" color="#798B62">Login</a></string>
     <string name="Register"><a href="#" color="#798B62">Register</a></string>
     <string name="go_to_events"><a href="#" color="#798B62">Go to Events</a></string>
+    <string name="upload_pictures"><img src="drawable/upload_icon.png" color="#798B62">Upload Pictures</img></string>
 </resources>
